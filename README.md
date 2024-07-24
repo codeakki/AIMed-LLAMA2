@@ -1,5 +1,5 @@
 # END to END AIMediBot using LLAMA2
-
+AIMediBot is a sophisticated AI-driven medical chatbot designed to assist patients by providing preliminary medical advice and answering health-related queries. This end-to-end solution leverages advanced AI models and a robust tech stack, including Python, LangChain, Flask, Meta's Llama2, and Pinecone, to ensure seamless and efficient operation.
 # How to run?
 
 ### STEPS:
